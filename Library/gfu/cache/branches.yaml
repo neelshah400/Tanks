@@ -12,15 +12,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-04-06T14:18:20.256-04:00
-  initializedAtString: 2019-04-06T14:14:08.445-04:00
+  lastUpdatedAtString: 2019-04-06T16:03:45.473-04:00
+  initializedAtString: 2019-04-06T16:03:45.409-04:00
   localBranches:
   - name: master
     tracking: origin/master
+  - name: Rotation
+    tracking: origin/Rotation
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/Rotation
     tracking: '[None]'
   remotes:
   - name: origin
@@ -33,12 +37,18 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - master
+    - Rotation
     values:
     - name: master
       remote:
         name: origin
         url: https://github.com/neelshah400/Tanks.git
       trackingBranch: master
+    - name: Rotation
+      remote:
+        name: origin
+        url: https://github.com/neelshah400/Tanks.git
+      trackingBranch: Rotation
   remoteConfigBranches:
     keys:
     - origin
@@ -46,6 +56,7 @@ MonoBehaviour:
     - Values:
       - HEAD
       - master
+      - Rotation
     subKeyValues:
     - Values:
       - name: HEAD
@@ -54,6 +65,11 @@ MonoBehaviour:
           url: https://github.com/neelshah400/Tanks.git
         trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/neelshah400/Tanks.git
+        trackingBranch: 
+      - name: Rotation
         remote:
           name: origin
           url: https://github.com/neelshah400/Tanks.git

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-04-06T14:18:20.059-04:00
-  initializedAtString: 2019-04-06T12:35:09.363-04:00
+  lastUpdatedAtString: 2019-04-06T14:28:26.113-04:00
+  initializedAtString: 2019-04-06T14:28:26.113-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/neelshah400/Tanks.git
@@ -23,14 +23,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: Rotation
+    tracking: origin/Rotation
   currentConfigBranch:
-    name: master
+    name: Rotation
     remote:
       name: origin
       url: https://github.com/neelshah400/Tanks.git
-    trackingBranch: master
+    trackingBranch: Rotation
   currentConfigRemote:
     name: origin
     url: https://github.com/neelshah400/Tanks.git
