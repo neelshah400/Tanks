@@ -3,8 +3,9 @@
 --- !u!114 &1
 MonoBehaviour:
   m_ObjectHideFlags: 61
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-04-06T14:18:20.059-04:00
-  initializedAtString: 2019-04-06T12:35:09.363-04:00
+  lastUpdatedAtString: 2019-04-06T15:11:26.190-04:00
+  initializedAtString: 2019-04-06T15:11:26.190-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/neelshah400/Tanks.git
@@ -23,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: Joystick
+    tracking: origin/Joystick
   currentConfigBranch:
-    name: master
+    name: Joystick
     remote:
       name: origin
       url: https://github.com/neelshah400/Tanks.git
-    trackingBranch: master
+    trackingBranch: Joystick
   currentConfigRemote:
     name: origin
     url: https://github.com/neelshah400/Tanks.git
