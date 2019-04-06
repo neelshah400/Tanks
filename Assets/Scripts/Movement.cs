@@ -7,11 +7,17 @@ public class Movement : MonoBehaviour {
     Rigidbody2D rb;
     public GameObject butL;
     public GameObject butR;
-    private float moveDir;
-    private float factor;
+    public GameObject butU;
+    public GameObject butD;
+    private float moveH;
+    private float moveV;
+    private float factorH;
+    private float factorV;
     public float moveSpeed = 100;
     public bool left = false;
     public bool right = false;
+    public bool up = false;
+    public bool down = false;
 
     // Use this for initialization
     void Start () {
@@ -32,25 +38,51 @@ public class Movement : MonoBehaviour {
         {
             Input.ResetInputAxes();
         }
-        factor = 0;
+        if (Input.GetKeyUp(KeyCode.UpArrow) && Input.GetKeyUp(KeyCode.W))
+        {
+            Input.ResetInputAxes();
+        }
+        if (Input.GetKeyUp(KeyCode.DownArrow) && Input.GetKeyUp(KeyCode.S))
+        {
+            Input.ResetInputAxes();
+        }
+        factorH = 0;
+        factorV = 0;
         if (Input.GetAxis("Horizontal") == -1)
         {
-            factor = -1;
+            factorH = -1;
         }
         if (Input.GetAxis("Horizontal") == 1)
         {
-            factor = 1;
+            factorH = 1;
+        }
+        if (Input.GetAxis("Vertical") == -1)
+        {
+            factorV = -1;
+        }
+        if (Input.GetAxis("Vertical") == 1)
+        {
+            factorV = 1;
         }
         if (left == true)
         {
-            factor = -1;
+            factorH = -1;
         }
         if (right == true)
         {
-            factor = 1;
+            factorH = 1;
         }
-        moveDir = factor * moveSpeed;
-        rb.velocity = new Vector2(moveDir, rb.velocity.y);
+        if (down == true)
+        {
+            factorV = -1;
+        }
+        if (up == true)
+        {
+            factorV = 1;
+        }
+        moveH = factorH * moveSpeed;
+        moveV = factorV * moveSpeed;
+        rb.velocity = new Vector2(moveH, moveV);
 
     }
 
@@ -58,5 +90,10 @@ public class Movement : MonoBehaviour {
     public void setLeftFalse() { left = false; }
     public void setRightTrue() { right = true; }
     public void setRightFalse() { right = false; }
+    /*public void setUpTrue() { left = true; }
+    public void setLeftFalse() { left = false; }
+    public void setRightTrue() { right = true; }
+    public void setRightFalse() { right = false; }*/
+    //a
 
 }
