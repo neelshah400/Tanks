@@ -1,0 +1,2003 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-11-06T13:45:27.169-05:00
+  initializedAtString: 2018-11-06T13:45:27.169-05:00
+  log:
+  - commitID: 15cf5c20ca6f3cc73b61920d992435508b4d587a
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Added car/controls
+    description: Added car/controls
+    timeString: 2018-11-06T13:43:41.000-05:00
+    commitTimeString: 2018-11-06T13:43:41.000-05:00
+    changes:
+    - path: .firebase\hosting.QnVpbGRzXFdlYkdM.cache
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.firebase\hosting.QnVpbGRzXFdlYkdM.cache
+      projectPath: .firebase\hosting.QnVpbGRzXFdlYkdM.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scripts\Movement.cs
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scripts\Movement.cs
+      projectPath: Assets\Scripts\Movement.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\Movement.cs.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scripts\Movement.cs.meta
+      projectPath: Assets\Scripts\Movement.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\car.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Sprites\car.png
+      projectPath: Assets\Sprites\car.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Sprites\car.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Sprites\car.png.meta
+      projectPath: Assets\Sprites\car.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.code.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.data.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.data.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.data.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: firebase-debug.log
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\firebase-debug.log
+      projectPath: firebase-debug.log
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 079d011497f9447e346387d97f140ea5500efe66
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Fully functional website
+    description: Fully functional website
+    timeString: 2018-10-28T15:35:45.000-04:00
+    commitTimeString: 2018-10-28T15:35:45.000-04:00
+    changes:
+    - path: .firebase\hosting.QnVpbGRzXFdlYkdM.cache
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.firebase\hosting.QnVpbGRzXFdlYkdM.cache
+      projectPath: .firebase\hosting.QnVpbGRzXFdlYkdM.cache
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .firebaserc
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.firebaserc
+      projectPath: .firebaserc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\404.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\404.html
+      projectPath: Builds\WebGL\404.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: firebase-debug.log
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\firebase-debug.log
+      projectPath: firebase-debug.log
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: firebase.json
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\firebase.json
+      projectPath: firebase.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: html\contact.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\contact.html
+      projectPath: html\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: html\web-old.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\web-old.html
+      projectPath: html\web-old.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\web.html
+      projectPath: html\web.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 36589868c7ac5f0a769376d320a932b1a4da2ae9
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: link other css/js
+    description: link other css/js
+    timeString: 2018-10-28T12:08:16.000-04:00
+    commitTimeString: 2018-10-28T12:08:16.000-04:00
+    changes:
+    - path: html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\web.html
+      projectPath: html\web.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 4aa94cd0c22c476bc1565f94e44973edc7645611
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: fix css issues
+    description: fix css issues
+    timeString: 2018-10-28T12:01:25.000-04:00
+    commitTimeString: 2018-10-28T12:01:25.000-04:00
+    changes:
+    - path: css\style.css
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\css\style.css
+      projectPath: css\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\web.html
+      projectPath: html\web.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 3aa5753230bf481ce21d437b90317cd4f7118e54
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: fix web > css
+    description: fix web > css
+    timeString: 2018-10-28T11:54:03.000-04:00
+    commitTimeString: 2018-10-28T11:54:03.000-04:00
+    changes:
+    - path: css\style.css
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\css\style.css
+      projectPath: css\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: f962c36c04da793c3f5d407ceedfc669d058b610
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: web > relative paths
+    description: web > relative paths
+    timeString: 2018-10-28T11:51:17.000-04:00
+    commitTimeString: 2018-10-28T11:51:17.000-04:00
+    changes:
+    - path: html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\web.html
+      projectPath: html\web.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 53c0510f67678d799df69f961de5087e1e7acfa3
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: relative paths
+    description: relative paths
+    timeString: 2018-10-28T11:49:07.000-04:00
+    commitTimeString: 2018-10-28T11:49:07.000-04:00
+    changes:
+    - path: html\contact-form.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\contact-form.html
+      projectPath: html\contact-form.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: html\contact.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\contact.html
+      projectPath: html\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\web.html
+      projectPath: html\web.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: index.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\index.html
+      projectPath: index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: b61c63875984276e34b3b25c12dc5a6e9bf49e7c
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Fix URLs
+    description: Fix URLs
+    timeString: 2018-10-28T11:39:27.000-04:00
+    commitTimeString: 2018-10-28T11:39:27.000-04:00
+    changes:
+    - path: css\style.css
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\css\style.css
+      projectPath: css\style.css
+      originalPath: docs\css\style.css
+      status: 6
+      staged: 0
+    - path: docs\html\about.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\about.html
+      projectPath: docs\html\about.html
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: docs\html\android.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\android.html
+      projectPath: docs\html\android.html
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: docs\html\home.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\home.html
+      projectPath: docs\html\home.html
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: html\about.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\about.html
+      projectPath: html\about.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: html\android.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\android.html
+      projectPath: html\android.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: html\contact-form.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\contact-form.html
+      projectPath: html\contact-form.html
+      originalPath: docs\html\contact-form.html
+      status: 6
+      staged: 0
+    - path: html\contact.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\contact.html
+      projectPath: html\contact.html
+      originalPath: docs\html\contact.html
+      status: 6
+      staged: 0
+    - path: html\home.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\home.html
+      projectPath: html\home.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\html\web.html
+      projectPath: html\web.html
+      originalPath: docs\html\web.html
+      status: 6
+      staged: 0
+    - path: index.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\index.html
+      projectPath: index.html
+      originalPath: docs\index.html
+      status: 6
+      staged: 0
+    - path: js\index.js
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\js\index.js
+      projectPath: js\index.js
+      originalPath: docs\js\index.js
+      status: 6
+      staged: 0
+  - commitID: 22048d9ee1d8e9a54db8afa6c853b56cb553261c
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Test site
+    description: Test site
+    timeString: 2018-10-28T00:07:14.000-04:00
+    commitTimeString: 2018-10-28T00:07:14.000-04:00
+    changes:
+    - path: docs\index.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\index.html
+      projectPath: docs\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a4aa525299ed79eddba24189413dfffbbd4847ee
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Fix url issues
+    description: Fix url issues
+    timeString: 2018-10-27T23:57:43.000-04:00
+    commitTimeString: 2018-10-27T23:57:43.000-04:00
+    changes:
+    - path: docs\html\about.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\about.html
+      projectPath: docs\html\about.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\html\contact.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\contact.html
+      projectPath: docs\html\contact.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\html\home.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\home.html
+      projectPath: docs\html\home.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\index.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\index.html
+      projectPath: docs\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a2d219d018be2feedce12a8a8e83b64608f5eb23
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Update website
+    description: Update website
+    timeString: 2018-10-27T23:46:23.000-04:00
+    commitTimeString: 2018-10-27T23:46:23.000-04:00
+    changes:
+    - path: docs\html\android.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\android.html
+      projectPath: docs\html\android.html
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: cb5f5b93873b9c3344e5f056a519e1267d61be96
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Functional website
+    description: Functional website
+    timeString: 2018-10-27T23:41:00.000-04:00
+    commitTimeString: 2018-10-27T23:41:00.000-04:00
+    changes:
+    - path: docs\css\style.css
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\css\style.css
+      projectPath: docs\css\style.css
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\html\contact-form.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\contact-form.html
+      projectPath: docs\html\contact-form.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\web.html
+      projectPath: docs\html\web.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\index.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\index.html
+      projectPath: docs\index.html
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\js\index.js
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\js\index.js
+      projectPath: docs\js\index.js
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: da41a632db7693878d8929333c99a884d4e19ec2
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Website
+    description: Website
+    timeString: 2018-10-27T22:33:08.000-04:00
+    commitTimeString: 2018-10-27T22:33:08.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\UnityLoader.js
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\UnityLoader.js
+      projectPath: Builds\WebGL\Build\UnityLoader.js
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.code.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.data.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.data.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.data.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: docs\css\style.css
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\css\style.css
+      projectPath: docs\css\style.css
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\html\about.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\about.html
+      projectPath: docs\html\about.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\html\android.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\android.html
+      projectPath: docs\html\android.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\html\contact-form.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\contact-form.html
+      projectPath: docs\html\contact-form.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\html\contact.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\contact.html
+      projectPath: docs\html\contact.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\html\home.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\home.html
+      projectPath: docs\html\home.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\html\web.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\html\web.html
+      projectPath: docs\html\web.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\index.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\index.html
+      projectPath: docs\index.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: docs\js\index.js
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\docs\js\index.js
+      projectPath: docs\js\index.js
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 3d5563afc764830bd82d0328b6d7b9afe7891183
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Make all buttons functional
+    description: Make all buttons functional
+    timeString: 2018-10-27T16:24:18.000-04:00
+    commitTimeString: 2018-10-27T16:24:18.000-04:00
+    changes:
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Instructions.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Instructions.unity
+      projectPath: Assets\Scenes\Instructions.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Settings.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Settings.unity
+      projectPath: Assets\Scenes\Settings.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.code.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.data.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.data.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.data.unityweb
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 529ae2aa3e832c9cb2a401fb8039599624b83c51
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: main menu and button script
+    description: main menu and button script
+    timeString: 2018-10-27T15:44:21.000-04:00
+    commitTimeString: 2018-10-27T15:44:21.000-04:00
+    changes:
+    - path: .collabignore
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Lato.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato.meta
+      projectPath: Assets\Lato.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Black.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Black.ttf
+      projectPath: Assets\Lato\Lato-Black.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Black.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Black.ttf.meta
+      projectPath: Assets\Lato\Lato-Black.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-BlackItalic.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-BlackItalic.ttf
+      projectPath: Assets\Lato\Lato-BlackItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-BlackItalic.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-BlackItalic.ttf.meta
+      projectPath: Assets\Lato\Lato-BlackItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Bold.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Bold.ttf
+      projectPath: Assets\Lato\Lato-Bold.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Bold.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Bold.ttf.meta
+      projectPath: Assets\Lato\Lato-Bold.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-BoldItalic.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-BoldItalic.ttf
+      projectPath: Assets\Lato\Lato-BoldItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-BoldItalic.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-BoldItalic.ttf.meta
+      projectPath: Assets\Lato\Lato-BoldItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Hairline.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Hairline.ttf
+      projectPath: Assets\Lato\Lato-Hairline.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Hairline.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Hairline.ttf.meta
+      projectPath: Assets\Lato\Lato-Hairline.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-HairlineItalic.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-HairlineItalic.ttf
+      projectPath: Assets\Lato\Lato-HairlineItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-HairlineItalic.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-HairlineItalic.ttf.meta
+      projectPath: Assets\Lato\Lato-HairlineItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Italic.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Italic.ttf
+      projectPath: Assets\Lato\Lato-Italic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Italic.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Italic.ttf.meta
+      projectPath: Assets\Lato\Lato-Italic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Light.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Light.ttf
+      projectPath: Assets\Lato\Lato-Light.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Light.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Light.ttf.meta
+      projectPath: Assets\Lato\Lato-Light.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-LightItalic.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-LightItalic.ttf
+      projectPath: Assets\Lato\Lato-LightItalic.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-LightItalic.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-LightItalic.ttf.meta
+      projectPath: Assets\Lato\Lato-LightItalic.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Regular.ttf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Regular.ttf
+      projectPath: Assets\Lato\Lato-Regular.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\Lato-Regular.ttf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\Lato-Regular.ttf.meta
+      projectPath: Assets\Lato\Lato-Regular.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\OFL.txt
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\OFL.txt
+      projectPath: Assets\Lato\OFL.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Lato\OFL.txt.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Lato\OFL.txt.meta
+      projectPath: Assets\Lato\OFL.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Game.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Game.unity
+      projectPath: Assets\Scenes\Game.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Game.unity.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Game.unity.meta
+      projectPath: Assets\Scenes\Game.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Instructions.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Instructions.unity
+      projectPath: Assets\Scenes\Instructions.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Instructions.unity.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Instructions.unity.meta
+      projectPath: Assets\Scenes\Instructions.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\MainMenu.unity.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\MainMenu.unity.meta
+      projectPath: Assets\Scenes\MainMenu.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Settings.unity
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Settings.unity
+      projectPath: Assets\Scenes\Settings.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Settings.unity.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scenes\Settings.unity.meta
+      projectPath: Assets\Scenes\Settings.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\SceneSwitcher.cs
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scripts\SceneSwitcher.cs
+      projectPath: Assets\Scripts\SceneSwitcher.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\SceneSwitcher.cs.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\Scripts\SceneSwitcher.cs.meta
+      projectPath: Assets\Scripts\SceneSwitcher.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset.meta
+      projectPath: Assets\iconset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark.meta
+      projectPath: Assets\iconset\dark.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_left_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_left_dark.png
+      projectPath: Assets\iconset\dark\arrow_left_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_left_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_left_dark.png.meta
+      projectPath: Assets\iconset\dark\arrow_left_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_left_stick_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_left_stick_dark.png
+      projectPath: Assets\iconset\dark\arrow_left_stick_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_left_stick_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_left_stick_dark.png.meta
+      projectPath: Assets\iconset\dark\arrow_left_stick_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_right_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_right_dark.png
+      projectPath: Assets\iconset\dark\arrow_right_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_right_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_right_dark.png.meta
+      projectPath: Assets\iconset\dark\arrow_right_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_right_stick_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_right_stick_dark.png
+      projectPath: Assets\iconset\dark\arrow_right_stick_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\arrow_right_stick_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\arrow_right_stick_dark.png.meta
+      projectPath: Assets\iconset\dark\arrow_right_stick_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\facebook_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\facebook_dark.png
+      projectPath: Assets\iconset\dark\facebook_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\facebook_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\facebook_dark.png.meta
+      projectPath: Assets\iconset\dark\facebook_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_blend_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_blend_dark.png
+      projectPath: Assets\iconset\dark\icon_blend_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_blend_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_blend_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_blend_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_gamepad_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_gamepad_dark.png
+      projectPath: Assets\iconset\dark\icon_gamepad_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_gamepad_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_gamepad_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_gamepad_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_gear_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_gear_dark.png
+      projectPath: Assets\iconset\dark\icon_gear_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_gear_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_gear_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_gear_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_list2_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_list2_dark.png
+      projectPath: Assets\iconset\dark\icon_list2_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_list2_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_list2_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_list2_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_list_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_list_dark.png
+      projectPath: Assets\iconset\dark\icon_list_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_list_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_list_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_list_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_mute_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_mute_dark.png
+      projectPath: Assets\iconset\dark\icon_mute_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_mute_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_mute_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_mute_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_pause_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_pause_dark.png
+      projectPath: Assets\iconset\dark\icon_pause_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_pause_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_pause_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_pause_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_photo_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_photo_dark.png
+      projectPath: Assets\iconset\dark\icon_photo_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_photo_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_photo_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_photo_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_retry_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_retry_dark.png
+      projectPath: Assets\iconset\dark\icon_retry_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_retry_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_retry_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_retry_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_share_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_share_dark.png
+      projectPath: Assets\iconset\dark\icon_share_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_share_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_share_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_share_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_skip_left_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_skip_left_dark.png
+      projectPath: Assets\iconset\dark\icon_skip_left_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_skip_left_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_skip_left_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_skip_left_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_skip_right_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_skip_right_dark.png
+      projectPath: Assets\iconset\dark\icon_skip_right_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_skip_right_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_skip_right_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_skip_right_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_table_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_table_dark.png
+      projectPath: Assets\iconset\dark\icon_table_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_table_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_table_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_table_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_volume_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_volume_dark.png
+      projectPath: Assets\iconset\dark\icon_volume_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\icon_volume_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\icon_volume_dark.png.meta
+      projectPath: Assets\iconset\dark\icon_volume_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\twitter_dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\twitter_dark.png
+      projectPath: Assets\iconset\dark\twitter_dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\dark\twitter_dark.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\dark\twitter_dark.png.meta
+      projectPath: Assets\iconset\dark\twitter_dark.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\icons_set.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\icons_set.png
+      projectPath: Assets\iconset\icons_set.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\icons_set.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\icons_set.png.meta
+      projectPath: Assets\iconset\icons_set.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\icons_set_black.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\icons_set_black.png
+      projectPath: Assets\iconset\icons_set_black.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\icons_set_black.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\icons_set_black.png.meta
+      projectPath: Assets\iconset\icons_set_black.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white.meta
+      projectPath: Assets\iconset\white.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_left.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_left.png
+      projectPath: Assets\iconset\white\arrow_left.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_left.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_left.png.meta
+      projectPath: Assets\iconset\white\arrow_left.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_left_stick.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_left_stick.png
+      projectPath: Assets\iconset\white\arrow_left_stick.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_left_stick.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_left_stick.png.meta
+      projectPath: Assets\iconset\white\arrow_left_stick.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_right.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_right.png
+      projectPath: Assets\iconset\white\arrow_right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_right.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_right.png.meta
+      projectPath: Assets\iconset\white\arrow_right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_right_stick.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_right_stick.png
+      projectPath: Assets\iconset\white\arrow_right_stick.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\arrow_right_stick.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\arrow_right_stick.png.meta
+      projectPath: Assets\iconset\white\arrow_right_stick.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\facebook.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\facebook.png
+      projectPath: Assets\iconset\white\facebook.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\facebook.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\facebook.png.meta
+      projectPath: Assets\iconset\white\facebook.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_blend.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_blend.png
+      projectPath: Assets\iconset\white\icon_blend.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_blend.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_blend.png.meta
+      projectPath: Assets\iconset\white\icon_blend.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_gamepad.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_gamepad.png
+      projectPath: Assets\iconset\white\icon_gamepad.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_gamepad.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_gamepad.png.meta
+      projectPath: Assets\iconset\white\icon_gamepad.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_gear.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_gear.png
+      projectPath: Assets\iconset\white\icon_gear.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_gear.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_gear.png.meta
+      projectPath: Assets\iconset\white\icon_gear.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_list.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_list.png
+      projectPath: Assets\iconset\white\icon_list.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_list.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_list.png.meta
+      projectPath: Assets\iconset\white\icon_list.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_list2.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_list2.png
+      projectPath: Assets\iconset\white\icon_list2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_list2.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_list2.png.meta
+      projectPath: Assets\iconset\white\icon_list2.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_mute.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_mute.png
+      projectPath: Assets\iconset\white\icon_mute.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_mute.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_mute.png.meta
+      projectPath: Assets\iconset\white\icon_mute.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_pause.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_pause.png
+      projectPath: Assets\iconset\white\icon_pause.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_pause.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_pause.png.meta
+      projectPath: Assets\iconset\white\icon_pause.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_photo.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_photo.png
+      projectPath: Assets\iconset\white\icon_photo.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_photo.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_photo.png.meta
+      projectPath: Assets\iconset\white\icon_photo.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_retry.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_retry.png
+      projectPath: Assets\iconset\white\icon_retry.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_retry.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_retry.png.meta
+      projectPath: Assets\iconset\white\icon_retry.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_share.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_share.png
+      projectPath: Assets\iconset\white\icon_share.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_share.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_share.png.meta
+      projectPath: Assets\iconset\white\icon_share.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_skip_left.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_skip_left.png
+      projectPath: Assets\iconset\white\icon_skip_left.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_skip_left.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_skip_left.png.meta
+      projectPath: Assets\iconset\white\icon_skip_left.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_skip_right.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_skip_right.png
+      projectPath: Assets\iconset\white\icon_skip_right.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_skip_right.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_skip_right.png.meta
+      projectPath: Assets\iconset\white\icon_skip_right.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_table.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_table.png
+      projectPath: Assets\iconset\white\icon_table.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_table.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_table.png.meta
+      projectPath: Assets\iconset\white\icon_table.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_volume3.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_volume3.png
+      projectPath: Assets\iconset\white\icon_volume3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\icon_volume3.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\icon_volume3.png.meta
+      projectPath: Assets\iconset\white\icon_volume3.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\twitter.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\twitter.png
+      projectPath: Assets\iconset\white\twitter.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\iconset\white\twitter.png.meta
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\iconset\white\twitter.png.meta
+      projectPath: Assets\iconset\white\twitter.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\Build\UnityLoader.js
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\UnityLoader.js
+      projectPath: Builds\WebGL\Build\UnityLoader.js
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.code.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.code.unityweb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.framework.unityweb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.asm.memory.unityweb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.data.unityweb
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.data.unityweb
+      projectPath: Builds\WebGL\Build\WebGL.data.unityweb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\Build\WebGL.json
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\Build\WebGL.json
+      projectPath: Builds\WebGL\Build\WebGL.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\UnityProgress.js
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\UnityProgress.js
+      projectPath: Builds\WebGL\TemplateData\UnityProgress.js
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\favicon.ico
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\favicon.ico
+      projectPath: Builds\WebGL\TemplateData\favicon.ico
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\fullscreen.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\fullscreen.png
+      projectPath: Builds\WebGL\TemplateData\fullscreen.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\progressEmpty.Dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\progressEmpty.Dark.png
+      projectPath: Builds\WebGL\TemplateData\progressEmpty.Dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\progressEmpty.Light.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\progressEmpty.Light.png
+      projectPath: Builds\WebGL\TemplateData\progressEmpty.Light.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\progressFull.Dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\progressFull.Dark.png
+      projectPath: Builds\WebGL\TemplateData\progressFull.Dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\progressFull.Light.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\progressFull.Light.png
+      projectPath: Builds\WebGL\TemplateData\progressFull.Light.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\progressLogo.Dark.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\progressLogo.Dark.png
+      projectPath: Builds\WebGL\TemplateData\progressLogo.Dark.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\progressLogo.Light.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\progressLogo.Light.png
+      projectPath: Builds\WebGL\TemplateData\progressLogo.Light.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\style.css
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\style.css
+      projectPath: Builds\WebGL\TemplateData\style.css
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\TemplateData\webgl-logo.png
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\TemplateData\webgl-logo.png
+      projectPath: Builds\WebGL\TemplateData\webgl-logo.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Builds\WebGL\index.html
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Builds\WebGL\index.html
+      projectPath: Builds\WebGL\index.html
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: gitignore.txt
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\gitignore.txt
+      projectPath: gitignore.txt
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: d270a8368b40012b350bfb1d61b78c7f74b7c693
+    mergeA: 
+    mergeB: 
+    authorName: Neel Shah
+    authorEmail: neelshah400@gmail.com
+    commitEmail: neelshah400@gmail.com
+    commitName: Neel Shah
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-10-27T12:37:33.000-04:00
+    commitTimeString: 2018-10-27T12:37:33.000-04:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\neels\Documents\Programming\SafeDrive\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0

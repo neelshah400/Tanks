@@ -1,0 +1,41 @@
+nav {
+  background-color: #00e676;
+}
+.bg-primary {
+  background-color: #00e676 !important;
+}
+.btn-primary {
+  background-color: #00e676;
+}
+.fab,
+.fas {
+  font-size: 3em;
+}
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.no-style, .no-style:hover, .no-style:visited{
+  color: inherit;
+  text-decoration: inherit;
+}
+.container-fluid {
+  padding-top: 40px;
+}
+.no-style img {
+  margin: 10px 0px 10px 0px;
+}
+#fullscreen {
+  padding: 10px;
+}
