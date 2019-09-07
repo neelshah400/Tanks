@@ -20,6 +20,12 @@ public class Shoot : MonoBehaviour
     void Update()
     {
 
+        pleaseWork();
+
+    }
+
+    public void pleaseWork()
+    {
         Vector2 start = new Vector2();
         Debug.Log("does this even pop up plz god");
         start = mv.sendPosition();
@@ -27,11 +33,11 @@ public class Shoot : MonoBehaviour
         Vector2 mouseOnScreen = (Vector2)Camera.main.WorldToViewportPoint(Input.mousePosition);
         float angle = 90 + Mathf.Atan2(start.y - mouseOnScreen.y, start.x - mouseOnScreen.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(new Vector3(0f, 0f, angle));
-        if (Input.GetKeyUp(KeyCode.Mouse1)){
+        if (Input.GetKeyDown(KeyCode.Mouse1) || Input.GetKeyDown(KeyCode.Space))
+        {
             rb.gameObject.SetActive(true);
             GameObject shot = Instantiate(rb.gameObject, transform.position, transform.rotation);
-            shot.GetComponent<Rigidbody>().AddForce(transform.forward * 100);
+            shot.GetComponent<Rigidbody>().AddForce(transform.forward * 1);
         }
-
     }
 }
